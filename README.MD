@@ -1,24 +1,23 @@
-##🧩 Análise de Dados | Portfólio
-
+🧩 Análise de Dados | Portfólio
 Este repositório reúne meus estudos e projetos práticos em **Análise de Dados**;
 Foco em: Python, SQL e Power Bi.
 Objetivos:  **explorar, limpar, visualizar e interpretar informações**, transformando dados em insights.
 ---
 
-##📂 Estrutura do Repositório
+📂 Estrutura do Repositório
 - `notebooks/` → Análises exploratórias e estudos em Python (Jupyter Notebooks).  
 - `dashboards/` → Dashboards desenvolvidos em Power BI.  
 - `datasets/` → Conjuntos de dados utilizados (quando possível).  
 ---
 
-##🚀 Tecnologias Utilizadas
+🚀 Tecnologias Utilizadas
 - **Python** (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn)  
 - **SQL**  
 - **Power BI**  
 - **Jupyter Notebook**  
 ---
 
-##🎯 Objetivo
+🎯 Objetivo
 Este repositório funciona como meu **portfólio de projetos em dados**, unindo minha experiência prévia em pesquisa científica com o aprendizado em **tecnologia aplicada à análise de dados**.
 
 ---
