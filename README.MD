@@ -1,8 +1,8 @@
 🧩 Análise de Dados | Portfólio
 
-Este repositório reúne meus estudos e projetos práticos em **Análise de Dados**;
-Foco em: Python, SQL e Power Bi;
-Objetivos:  **explorar, limpar, visualizar e interpretar informações**, transformando dados em insights.
+- Este repositório reúne meus estudos e projetos práticos em **Análise de Dados**;
+- Foco em: Python, SQL e Power Bi;
+- Objetivos:  **explorar, limpar, visualizar e interpretar informações**, transformando dados em insights.
 ---
 
 📂 Estrutura do Repositório
