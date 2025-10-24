@@ -7,6 +7,7 @@
 
 📂 Estrutura do Repositório
 - `notebooks/` → Análises exploratórias e estudos em Python (Jupyter Notebooks).  
+- `sql_studies/` → Queries utilizando SQLServer (SSMS) 
 - `dashboards/` → Dashboards desenvolvidos em Power BI.  
 - `datasets/` → Conjuntos de dados utilizados (quando possível).  
 ---
